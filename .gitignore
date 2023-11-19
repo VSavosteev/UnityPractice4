@@ -1,0 +1,6 @@
+# Unity specific
+Library/
+Temp/
+obj/
+build/
+Источник: https://bershovo.ru/kak-zagruzit-proekt-unity-na-github
